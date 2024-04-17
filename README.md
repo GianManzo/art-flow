@@ -51,6 +51,4 @@
 
 ## **Author**
 
-| [![Victor Batisttete Dias](https://avatars.githubusercontent.com/u/30843291?size=100)](https://github.com/victorbdias) |
-| ---------------------------------------------------------------------------------------------------------------------- |
-| [VictorBDias](https://github.com/victorbdias)                                                                          |
+                                                                    |
